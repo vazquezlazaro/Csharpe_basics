@@ -1,0 +1,12 @@
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/Users/luisvazquezlazaro/C#/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/Users/luisvazquezlazaro/C#/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/Users/luisvazquezlazaro/C#/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/Users/luisvazquezlazaro/C#/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/Users/luisvazquezlazaro/C#/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/Users/luisvazquezlazaro/C#/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
